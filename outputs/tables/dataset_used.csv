@@ -1,0 +1,778 @@
+question_id,image_id,question,answer,label,question_length
+529215001,529215,do you see any animals coming from the woods?,no,0,9
+345787000,345787,is this the right dress for her?,yes,1,7
+218926002,218926,is this doll wearing a belt?,yes,1,6
+145824001,145824,would it be easier for the man to go the other direction?,yes,1,12
+157866001,157866,is the stove built in?,yes,1,5
+140661016,140661,is there a fan moving in this picture?,no,0,8
+170129008,170129,is the sun bright?,yes,1,4
+345063000,345063,has the sign been defaced?,no,0,5
+476715000,476715,is this room clean?,no,0,4
+300039003,300039,are we bored in this pic?,yes,1,6
+269600001,269600,is it nighttime?,yes,1,3
+535808011,535808,are there a lot of bikes?,no,0,6
+433892003,433892,are there any cars in the street?,no,0,7
+475466004,475466,is this a busy street?,no,0,5
+507235004,507235,is this a big bowl?,yes,1,5
+133386014,133386,is it raining outside?,no,0,4
+218716003,218716,do the elephants like each other?,yes,1,6
+499826000,499826,is this woman crying?,no,0,4
+108698001,108698,is the cat stuck in the gate?,no,0,7
+276706001,276706,is this cat hunting?,no,0,4
+322261021,322261,is the boy in danger of getting a splinter in his foot?,no,0,12
+307523009,307523,is there a difficult trick taking place?,yes,1,7
+163608003,163608,is there a pepper in the photo?,yes,1,7
+280918004,280918,is the lady wearing a belt?,no,0,6
+536947000,536947,are there cans on the ground?,yes,1,6
+58123002,58123,is this bus turning on red?,no,0,6
+264594001,264594,is the older girl in control of the calf?,yes,1,9
+160351029,160351,is the boy squatting?,no,0,4
+198635030,198635,do both plates have the same dish?,no,0,7
+458932006,458932,is the water warm?,no,0,4
+259755002,259755,is the person in the red jersey wearing a helmet?,yes,1,10
+254016000,254016,is this food sweet?,yes,1,4
+376208000,376208,is there an audience?,yes,1,4
+553788000,553788,if the laptop plugged into anything?,yes,1,6
+359140006,359140,did the person use toilet paper when using the bathroom?,no,0,10
+304875006,304875,are the zebras eating?,yes,1,4
+360216007,360216,is the woman's thumb touching the mug?,no,0,7
+372147002,372147,does one girl have a guitar?,yes,1,6
+387244000,387244,is there running water pictured?,yes,1,5
+112698003,112698,is the player a girl?,no,0,5
+78023006,78023,is there a plant in this image?,no,0,7
+113251001,113251,is this a city?,yes,1,4
+145523021,145523,is there anything in the toilet?,no,0,6
+195648005,195648,"judging by the trees, is this summer?",yes,1,7
+478009000,478009,is there toilet paper available?,no,0,5
+72507001,72507,is the rain's light on?,yes,1,5
+432534000,432534,are these flowers real?,yes,1,4
+46870004,46870,is this a vintage bike?,yes,1,5
+199050000,199050,is this a party?,yes,1,4
+459440000,459440,do those scribbles mean anything?,yes,1,5
+99341001,99341,will the man kick the ball?,yes,1,6
+406917001,406917,is the person wearing shoes?,no,0,5
+154892000,154892,is the man wearing glasses?,yes,1,5
+213171001,213171,is the man wearing a white t-shirt?,no,0,7
+488832000,488832,will one person be eating this?,yes,1,6
+194780005,194780,are there any people in the picture?,no,0,7
+110906001,110906,is the player smiling at the camera?,yes,1,7
+24053008,24053,are these trees real?,no,0,4
+205300001,205300,is the motor bike too small for the person riding it?,yes,1,11
+120509003,120509,does she have an earring in her hair?,yes,1,8
+363981004,363981,is the kid a boy?,yes,1,5
+564822004,564822,will be bust his head if he falls?,no,0,8
+494578001,494578,are the birds flying?,no,0,4
+275863002,275863,have you ever played baseball?,yes,1,5
+45057004,45057,are there mushrooms in the picture?,yes,1,6
+380754032,380754,is the woman taking a selfie?,no,0,6
+417339000,417339,is the boy wearing goggles?,yes,1,5
+183657000,183657,is it safe to stand near the bowl?,no,0,8
+459034008,459034,is this a typical activity for senior citizens?,no,0,8
+406885002,406885,is the train on the tracks?,yes,1,6
+222370023,222370,are there two garages next to each other?,no,0,8
+164759003,164759,is there a wood floor?,yes,1,5
+44823001,44823,is a vintage airplane on the ground?,yes,1,7
+322352002,322352,are the plants getting sun?,yes,1,5
+268854002,268854,is that a gazebo on the jetty?,yes,1,7
+306247001,306247,is the man's mouth open?,no,0,5
+39068003,39068,is this picture black and white?,yes,1,6
+223094001,223094,are these modern appliances?,no,0,4
+12085025,12085,is the man clean shaven?,no,0,5
+296208012,296208,is the cup full?,yes,1,4
+46650001,46650,is it normal to have fruit on a record?,no,0,9
+387990001,387990,are there books in this photo?,yes,1,6
+434976005,434976,is the little girl wearing shoes?,no,0,6
+101270000,101270,are the lanes performing?,yes,1,4
+156832009,156832,is this a big bathroom?,no,0,5
+186036004,186036,does the truck have suicide doors?,yes,1,6
+472691007,472691,are they any anchovies on the pizza?,yes,1,7
+427870001,427870,is there two humans in the picture?,yes,1,7
+269017002,269017,can the chair be used in the shower?,no,0,8
+97036000,97036,is there a bowl seen?,no,0,5
+81054000,81054,is there anyone inside of the car?,no,0,7
+447553017,447553,are the people going in opposite directions?,no,0,7
+254930000,254930,is this someone's home?,no,0,4
+58157003,58157,are they in a park?,yes,1,5
+146710005,146710,is the woman athletic?,yes,1,4
+221291000,221291,does the boy have red hair?,yes,1,6
+236925003,236925,is the zebra in its natural habitat?,no,0,7
+571012001,571012,is this person doing a skateboarding trick?,no,0,7
+128112001,128112,is this person skateboarding?,no,0,4
+516628002,516628,is this room tidy?,no,0,4
+469471002,469471,is this room in a hotel?,yes,1,6
+53529002,53529,is that a four leaf clover?,no,0,6
+91402009,91402,is the surfer wearing a shirt?,yes,1,6
+201163002,201163,are the bikes ready to race?,no,0,6
+249550005,249550,are there pictures on the wall?,no,0,6
+474464001,474464,would a vegetarian eat this?,yes,1,5
+323888003,323888,are the hands of the clock fluorescent?,yes,1,7
+559012005,559012,is the man wearing a hat?,no,0,6
+31368004,31368,should this person be wearing safety gloves?,no,0,7
+386012002,386012,is anyone swimming in the water?,yes,1,6
+241113003,241113,is this inside?,no,0,3
+405007000,405007,is the sky stormy?,no,0,4
+49648000,49648,is this a professional photo?,yes,1,5
+196995005,196995,does this bear poop in the woods?,yes,1,7
+44732002,44732,are the birds eating?,no,0,4
+458255002,458255,is the girl looking at the book?,yes,1,7
+507927007,507927,are these police?,no,0,3
+77953002,77953,are boats used as transportation here?,yes,1,6
+521359010,521359,does the shower curtain need to be replaced?,yes,1,8
+189163001,189163,is this picture taken in a regular bedroom?,yes,1,8
+486175010,486175,are the people about to eat?,no,0,6
+45564013,45564,is there water?,yes,1,3
+261155004,261155,is it a sunny day?,no,0,5
+10219020,10219,is there a dog on the porch swing?,no,0,8
+32300001,32300,is the child a good player?,yes,1,6
+170605012,170605,is it sunny?,yes,1,3
+254491003,254491,is it a sunny day?,yes,1,5
+365129000,365129,would fish like the area on the left?,yes,1,8
+75612012,75612,do the people look bored?,no,0,5
+315209014,315209,are there any trees in the photo?,yes,1,7
+292156003,292156,are both men standing up?,no,0,5
+133693012,133693,are right turned allowed?,yes,1,4
+289630000,289630,is there a train?,yes,1,4
+504304001,504304,is she playing with another kid?,no,0,6
+22874005,22874,is the cat fat?,no,0,4
+148783000,148783,is the zebra in a safari?,no,0,6
+324500001,324500,does the water look smooth?,yes,1,5
+460652001,460652,is this a mall?,no,0,4
+184330001,184330,is the plane on a runway?,yes,1,6
+568439002,568439,are the men at the bus stop arguing?,no,0,8
+27493000,27493,is that a man's hand holding the plate?,yes,1,8
+475798000,475798,are there other planes in the picture?,no,0,7
+114303000,114303,are the walls yellow?,no,0,4
+38276018,38276,can you smoke in here?,yes,1,5
+115182006,115182,are all the animals eating?,no,0,5
+52314003,52314,is the skateboarder shirtless?,no,0,4
+50521002,50521,is the restroom nice?,no,0,4
+39976001,39976,is there an appropriate amount of basil on the top pizza?,yes,1,11
+251370002,251370,is the person surfing?,yes,1,4
+581702003,581702,is the bird standing on the biggest rock?,yes,1,8
+76468004,76468,are the women on the same team?,no,0,7
+285349002,285349,can all of the origami fit in the heart vase?,no,0,10
+266246000,266246,is it raining outside?,yes,1,4
+416088007,416088,is this at unc?,no,0,4
+143458020,143458,is there a train?,no,0,4
+527906004,527906,is that a dessert on the plate?,no,0,7
+356863018,356863,is the bird flying?,no,0,4
+295194002,295194,has the rider on the white horse successfully lassoed the calf?,yes,1,11
+566699002,566699,is the giraffe introducing himself?,no,0,5
+120129006,120129,is this creature a mammal?,yes,1,5
+127535006,127535,are the bananas all fully ripe?,yes,1,6
+443278001,443278,are all the animals all facing the same way?,yes,1,9
+577880018,577880,is this person a professional athlete?,no,0,6
+48273002,48273,do these fruit have stamps on them?,yes,1,7
+147404003,147404,is there a cowboy hat in the picture?,yes,1,8
+139140002,139140,could this be in canada?,yes,1,5
+120380002,120380,are they lying on the floor?,no,0,6
+511674017,511674,is this person smart?,no,0,4
+278462007,278462,is he above the wave?,no,0,5
+69189002,69189,is the bike overloaded?,yes,1,4
+20781002,20781,could one assume one of these two is less enthused about what is going on?,yes,1,15
+581593005,581593,is the bread sliced thinly?,no,0,5
+467475011,467475,would these be appropriate gifts to pageant contestants?,no,0,8
+131882000,131882,are all the cows standing?,no,0,5
+132408003,132408,are these working horses?,yes,1,4
+104751002,104751,can one categorize this picture as a selfie?,yes,1,8
+537053007,537053,is the giraffe standing?,yes,1,4
+478858003,478858,are there any trash cans in view?,no,0,7
+541071000,541071,is this on land?,yes,1,4
+27617012,27617,is there a constellation named after these creatures?,no,0,8
+432898000,432898,is there a lot of people?,no,0,6
+353595001,353595,can this mean leave through the door behind him?,yes,1,9
+562737005,562737,do you have to pay to park here?,no,0,8
+244834001,244834,is the girls shoulder bag multi color?,yes,1,7
+454577007,454577,is this profitable farmland?,no,0,4
+109888003,109888,is the sheep rubbing his back?,no,0,6
+113139000,113139,is the language on most labels english?,yes,1,7
+450758004,450758,are there any trees in the photo?,no,0,7
+33802003,33802,is this room decorated for comfort?,yes,1,6
+391290001,391290,are any girls playing frisbee?,yes,1,5
+92377000,92377,is the bench new?,no,0,4
+274109006,274109,could you eat this meal with your hands?,yes,1,8
+175942005,175942,is there a plane in the sky?,yes,1,7
+296802002,296802,are both dishes on trays?,yes,1,5
+14248004,14248,is the child asleep?,no,0,4
+10040000,10040,are the people wearing uniforms?,yes,1,5
+250608006,250608,will the tree roots one day grow above the grass?,yes,1,10
+493846019,493846,is the man relaxed?,yes,1,4
+521282002,521282,are the flowers in the case alive?,yes,1,7
+266932002,266932,are the bananas ripe?,yes,1,4
+227399011,227399,is this a real train?,no,0,5
+96459002,96459,is this a pet duck?,no,0,5
+1841000,1841,is the girl wearing a tied?,yes,1,6
+522194001,522194,is the man in an empty room?,yes,1,7
+490022009,490022,is the boy's hair wet?,no,0,5
+447233008,447233,is this breakfast?,yes,1,3
+479379003,479379,are there any cars on the street?,no,0,7
+572604001,572604,is this america?,yes,1,3
+205531024,205531,is this a restaurant?,no,0,4
+579226000,579226,is the use of latin illustrated in this photo?,yes,1,9
+573993013,573993,are all these sinks the same color?,yes,1,7
+78565002,78565,is this a good day for surfing?,no,0,7
+383419001,383419,is the girl eating in a kitchen?,no,0,7
+140439006,140439,is there a cup on the photo?,no,0,7
+255966000,255966,is this a pancake?,no,0,4
+465489018,465489,are there any lights in this picture?,no,0,7
+474164003,474164,is the dog in the car?,no,0,6
+459382006,459382,is there a star on this cake?,no,0,7
+107839025,107839,is he laying on a towel?,no,0,6
+531928002,531928,does the giraffe have eyeballs?,yes,1,5
+537905003,537905,is he tethered to the board?,no,0,6
+399212014,399212,are there stuffed animals?,no,0,4
+457262003,457262,does this particular fruit contain vitamin c?,no,0,7
+331403002,331403,is this person wearing goggles?,yes,1,5
+242363029,242363,is there a black pail in the room?,no,0,8
+273967002,273967,are big waves visible?,yes,1,4
+142856003,142856,is this pizza cooked?,no,0,4
+504297004,504297,is the soda cup laying down?,no,0,6
+232511003,232511,are these the grandparents  of the girl?,yes,1,7
+543422005,543422,is this near an ocean?,no,0,5
+285961002,285961,is this picture taken during the daytime?,yes,1,7
+436470000,436470,is there a fireplace in the room?,yes,1,7
+49473001,49473,is there a reflection?,no,0,4
+192755001,192755,is this a bus?,no,0,4
+560466001,560466,is this a model?,yes,1,4
+543528001,543528,is there a propeller on the nose?,no,0,7
+523297000,523297,is the bathroom in working order?,yes,1,6
+402971008,402971,are the stands filled?,yes,1,4
+184902013,184902,is this a cabin?,no,0,4
+441453001,441453,will the helmet fit the younger person?,no,0,7
+447787005,447787,is there a bunch of hot dogs on the pan?,no,0,10
+155317001,155317,is this a dessert?,yes,1,4
+376209005,376209,is there food on the plates?,yes,1,6
+287574001,287574,do elephants like waterfalls?,yes,1,4
+190664001,190664,is there traffic light in the background?,yes,1,7
+445435001,445435,is the lady excited to eat her food?,yes,1,8
+532142003,532142,is the train number 702?,no,0,5
+154173001,154173,do these animals grow tusk?,yes,1,5
+428357001,428357,is this for military use?,yes,1,5
+5352004,5352,is the container environmentally friendly?,yes,1,5
+555390009,555390,is there a lot of traffic?,no,0,6
+109498002,109498,is it winter?,yes,1,3
+246348008,246348,are there mountains?,no,0,3
+218215000,218215,is that a black bear?,no,0,5
+365182000,365182,are there people in the picture?,yes,1,6
+231450004,231450,would a person looking at the room from the outside see the picture on the wall?,no,0,16
+363927002,363927,is this a bus?,yes,1,4
+90839025,90839,is the room carpeted?,no,0,4
+456377001,456377,is there broccoli?,yes,1,3
+53505001,53505,is the bathroom neat and clean?,yes,1,6
+548523003,548523,is this kitchen in a restaurant?,yes,1,6
+108129017,108129,is there room for a truck to drive on the path?,no,0,11
+141002014,141002,was a filter used on this photo?,no,0,7
+321692001,321692,are the horses waiting for someone to ride them?,yes,1,9
+346880002,346880,has either packet been used?,yes,1,5
+283380003,283380,are there flames on the bike?,no,0,6
+120747014,120747,is he really close to the tv?,no,0,7
+54671003,54671,are both lamps on?,yes,1,4
+323515001,323515,is this a gluten free meal?,yes,1,6
+115060003,115060,is this in a case?,yes,1,5
+438364008,438364,is this a tour bus?,yes,1,5
+65113000,65113,would this normally belong here?,no,0,5
+327656009,327656,is there a person glowing in the dark?,no,0,8
+417085002,417085,do you find any boulders in this picture?,no,0,8
+262609001,262609,are people in the crosswalk?,yes,1,5
+70945003,70945,is the picture in black and white?,no,0,7
+257767008,257767,is the keyboard white?,no,0,4
+498971004,498971,is this a marina?,yes,1,4
+531061002,531061,do they both have helmets on?,no,0,6
+512564000,512564,is the bus going to park?,no,0,6
+410056004,410056,are this man and dog in danger?,no,0,7
+231339002,231339,is the little girl looking for food?,yes,1,7
+520482001,520482,are these birds native to this area?,no,0,7
+244111003,244111,is this a basement in an home?,no,0,7
+63965000,63965,is this a healthy treat?,no,0,5
+29170001,29170,is the horse saddled?,no,0,4
+47588001,47588,is this a passenger train?,yes,1,5
+59732004,59732,is this focused?,yes,1,3
+530656002,530656,does the man have on a wristband?,yes,1,7
+262933001,262933,are the bears fighting?,yes,1,4
+239861004,239861,have the sheep been recently shorn?,no,0,6
+434494027,434494,is the man in the photograph having fun?,no,0,8
+185802009,185802,is the water real?,no,0,4
+105177004,105177,does this look like an open floor plan?,yes,1,8
+184358000,184358,is there a shadow in the image?,no,0,7
+108244009,108244,is there another animal in the picture?,no,0,7
+351489003,351489,is this couch a sectional?,no,0,5
+479280002,479280,is it daytime?,no,0,3
+511076000,511076,are all the birds sitting on the ground?,yes,1,8
+301300003,301300,does the sign under the stop sign have a girl's name?,no,0,11
+581683001,581683,is this a birthday cake?,no,0,5
+369831002,369831,does this scene make you hungry?,yes,1,6
+289995004,289995,is the person bending down a man?,no,0,7
+247407003,247407,is the man wearing a watch?,yes,1,6
+26967002,26967,is the crowd mostly young?,yes,1,5
+235833002,235833,does the toilet have a tank lid?,no,0,7
+236323006,236323,are there empty bottles on the shelf?,no,0,7
+104176002,104176,is the man in a good mood?,no,0,7
+43610003,43610,is the bird eating?,yes,1,4
+445248002,445248,do any of the elephants have tusk?,no,0,7
+114710004,114710,is the animal getting washed?,no,0,5
+527575003,527575,are the knives going to cut each other?,no,0,8
+531061007,531061,are the people doing a stunt?,no,0,6
+142774052,142774,is the biker using an umbrella?,no,0,6
+428856001,428856,is the boat a warship?,yes,1,5
+322057001,322057,do these animals bark?,no,0,4
+133679001,133679,is the floor clean?,yes,1,4
+183104001,183104,do the animals like being in cages?,no,0,7
+474667007,474667,does this cat look happy?,no,0,5
+365325002,365325,is the baby sleeping off a few drinks?,no,0,8
+493020002,493020,is this man para surfing?,no,0,5
+103855006,103855,is everyone an adult in this photo?,yes,1,7
+329030007,329030,is there a mirror?,no,0,4
+408255007,408255,are the mans arms folded?,no,0,5
+21994015,21994,is the elephant in a cage?,no,0,6
+6847000,6847,is he wearing a name badge?,no,0,6
+196118000,196118,is there a clock on the tower?,yes,1,7
+358869002,358869,is the  horse alone?,no,0,4
+514296003,514296,is there a kite in the air?,no,0,7
+167456000,167456,are these boats anchored?,yes,1,4
+516828002,516828,is this a thin crusted pizza?,yes,1,6
+195862008,195862,is the child wearing a helmet?,yes,1,6
+214989006,214989,is the elephant in the wild?,yes,1,6
+268831000,268831,is the tub clean?,yes,1,4
+70932001,70932,is this someone's home?,no,0,4
+399744021,399744,are there apples here?,yes,1,4
+462784000,462784,is the train moving?,yes,1,4
+289992006,289992,is there a light on?,no,0,5
+43098002,43098,is somebody using the atm?,no,0,5
+214492004,214492,is this a black and white photo?,yes,1,7
+133078002,133078,is this a circus?,no,0,4
+95039002,95039,is the player in white stealing a base?,no,0,8
+449043002,449043,does this building have a clock?,yes,1,6
+103491000,103491,is the man walking?,no,0,4
+132415019,132415,does this pizza need to be eaten with a fork?,no,0,10
+139260002,139260,does this dessert have fruit?,yes,1,5
+389969001,389969,is the cat sitting in shade?,yes,1,6
+140465003,140465,does this person seem happy?,no,0,5
+576085004,576085,are these people safe skateboarding in the middle of the street?,no,0,11
+358494008,358494,are the animals wearing saddles?,no,0,5
+37740002,37740,are the screens showing anything?,no,0,5
+273079005,273079,is the water  cold?,yes,1,4
+350522001,350522,does the cat love the plant?,yes,1,6
+424880001,424880,did someone take a bite out of this?,yes,1,8
+537982000,537982,are there any fruits?,no,0,4
+551822002,551822,is there a bowl with sauce?,yes,1,6
+56344001,56344,is this a war scene?,no,0,5
+20111003,20111,is this person in danger?,yes,1,5
+556932006,556932,is the knife going to stop everyone?,no,0,7
+119779000,119779,are there clouds out?,yes,1,4
+161557002,161557,is this animal relaxing?,yes,1,4
+303653002,303653,are the horses taking their people out for a walk?,no,0,10
+404781010,404781,is it an overcast day?,yes,1,5
+103851000,103851,is this a narrow room?,no,0,5
+82920001,82920,is the umbrella mad at the man?,no,0,7
+11567003,11567,will he win the match?,no,0,5
+275751003,275751,is this a caboose?,no,0,4
+548331002,548331,are the walkways stones kidney shaped?,no,0,6
+251967002,251967,is the green object a knife?,yes,1,6
+562084007,562084,is the closest chair occupied?,yes,1,5
+164969004,164969,has this pizza been cut into slices?,yes,1,7
+273967003,273967,is the woman a skier?,no,0,5
+165202008,165202,can you cross this street?,yes,1,5
+76107002,76107,are these gulls waiting for a fish?,yes,1,7
+387470001,387470,are the suitcases full of stickers?,yes,1,6
+447313001,447313,can you keep one of these animals in your house?,no,0,10
+25972000,25972,is this a go cart?,no,0,5
+30942000,30942,do you see a brick wall?,yes,1,6
+325410002,325410,is this an exotic species?,yes,1,5
+79392003,79392,is the plane on air?,yes,1,5
+383293002,383293,is the wind blowing in this picture?,no,0,7
+311303005,311303,is the table made of glass?,no,0,6
+262386002,262386,is this a bathroom?,yes,1,4
+27975001,27975,is the dog relaxed?,yes,1,4
+323853000,323853,is the fruit ripe yet?,yes,1,5
+406932001,406932,is the dog barking?,no,0,4
+54643005,54643,is the dog looking at the camera?,no,0,7
+260105002,260105,is there any meat on the plate?,yes,1,7
+150347002,150347,is the bed made?,yes,1,4
+313888000,313888,can the fire hydrant be turned on?,yes,1,7
+209972000,209972,are there any people present?,no,0,5
+226020000,226020,are his two feet touching the skateboard?,no,0,7
+142790000,142790,are the people having fun?,yes,1,5
+328596031,328596,does the baby want some pizza?,yes,1,6
+383958006,383958,will the girl eat all this?,no,0,6
+172513002,172513,is that a wedding?,no,0,4
+57172003,57172,has the man fallen?,no,0,4
+206433006,206433,is this man on the right wearing a red neck tie?,yes,1,11
+257971011,257971,are the pictures on the wall the same?,yes,1,8
+250758010,250758,are these animals in a zoo?,yes,1,6
+447613001,447613,does the woman have a phone on her hand?,yes,1,9
+570001004,570001,was this used in war?,no,0,5
+474906029,474906,is it raining?,no,0,3
+503841000,503841,is this a broken traffic light?,no,0,6
+237777003,237777,are the elephants in the wild?,yes,1,6
+327527002,327527,is it raining?,yes,1,3
+165012002,165012,is she adorable?,yes,1,3
+484723002,484723,are there any people in the bus?,no,0,7
+549930005,549930,are the boy and girl dating?,yes,1,6
+394328002,394328,is the waste basket full?,yes,1,5
+545101003,545101,does this kitchen have curtains?,no,0,5
+569652001,569652,is this a profession kitchen?,yes,1,5
+167583001,167583,are these food items healthy?,yes,1,5
+352080012,352080,is this a mattress?,no,0,4
+161605001,161605,is the sandwich finished?,no,0,4
+522703005,522703,is the pizza crust burnt?,no,0,5
+482799002,482799,is the train crossing a body of water?,yes,1,8
+307531001,307531,is the dog swerving while running?,yes,1,6
+231408001,231408,is the cat lazy?,no,0,4
+20161008,20161,is the television turned on?,no,0,5
+73981005,73981,can the giraffes roam freely?,no,0,5
+18462003,18462,is glendora ave one-way?,yes,1,4
+202476001,202476,is this the look of someone concentrating fiercely?,yes,1,8
+265372017,265372,does the boat have a name?,no,0,6
+68036003,68036,are the trains moving?,no,0,4
+76416004,76416,is it raining?,no,0,3
+96493003,96493,is the boy's shirt white?,no,0,5
+257270004,257270,is there a green truck parked by the curb?,yes,1,9
+222782002,222782,is this a recent photo?,no,0,5
+581415002,581415,is there a strip of lights over the television?,no,0,9
+111811001,111811,are there any cars in the picture?,yes,1,7
+83036024,83036,is the woman dark haired?,yes,1,5
+376491003,376491,do the trees have snow on them?,yes,1,7
+14278006,14278,is this a busy street?,yes,1,5
+356379000,356379,is anyone sitting on any of the benches?,no,0,8
+32464001,32464,is the man wearing a bulls shirt?,yes,1,7
+385786004,385786,are there any people in the beds?,no,0,7
+306506003,306506,is this a close-up photograph?,yes,1,5
+564151002,564151,do the men and women use the same sink?,yes,1,9
+66524003,66524,is the catcher ready to receive a pitch?,no,0,8
+439132000,439132,is the cat sleeping?,no,0,4
+296014001,296014,does the woman in the front look happy?,no,0,8
+511546023,511546,is there a pack of tissues?,no,0,6
+158846004,158846,is the house full?,yes,1,4
+442106002,442106,does the stove have any blemishes?,yes,1,6
+20788000,20788,is this a restaurant?,no,0,4
+252342006,252342,are there any books?,no,0,4
+217872002,217872,will it snow soon?,no,0,4
+90429000,90429,is there a bucket in the background?,yes,1,7
+261587001,261587,is this person wearing a life jacket?,yes,1,7
+441054003,441054,"would this bear be found on kodiak island, ak?",yes,1,9
+469471005,469471,would this area benefit from a wrecking ball?,no,0,8
+144269000,144269,is the person taking a picture?,yes,1,6
+201993015,201993,are there any people?,no,0,4
+25034006,25034,are there trees visible?,yes,1,4
+519755002,519755,is the player wearing a dress?,yes,1,6
+566524003,566524,are there clouds?,yes,1,3
+135708000,135708,can the chicken dance around the bicycle?,no,0,7
+121611002,121611,is this an open floor plan?,yes,1,6
+36409000,36409,can this food be eaten?,yes,1,5
+353347014,353347,is there a door in the picture?,no,0,7
+323598000,323598,is there a plant near a toilet?,no,0,7
+271076006,271076,is there a place to have a picnic?,yes,1,8
+551974041,551974,does the woman feel embarrassed?,no,0,5
+26501004,26501,is there an airplane in view?,no,0,6
+270001008,270001,was the hot dog grilled?,no,0,5
+412975012,412975,are all of these people on the sidewalk?,no,0,8
+189740003,189740,is there a bird in this picture?,yes,1,7
+562519004,562519,is the person properly dressed for this activity?,yes,1,8
+344045002,344045,does the surfboard have a black frame?,yes,1,7
+561013002,561013,is the woman holding the cake happy?,yes,1,7
+431306002,431306,can you see the person taking the picture?,yes,1,8
+245664000,245664,are the things on the desk arranged in a tidy way?,no,0,11
+249277013,249277,is this the chess team?,no,0,5
+76721003,76721,does this look like it's an event?,yes,1,7
+491921014,491921,is the photo blurry?,no,0,4
+347335008,347335,are there shrimp on the plate?,no,0,6
+383594000,383594,are the buns toasted?,no,0,4
+115243004,115243,is this common head wear for a vacationing skier?,yes,1,9
+452201009,452201,is the baseball player pitching a baseball?,no,0,7
+351588004,351588,do windows let enough light there?,yes,1,6
+424219004,424219,can these giraffes access each other?,yes,1,6
+581557002,581557,could the man be headed for the beach?,yes,1,8
+304186008,304186,does this man have a mustache?,yes,1,6
+64103000,64103,are they face to face?,yes,1,5
+93156000,93156,is he jumping?,no,0,3
+565853003,565853,is sunlight shining inside?,no,0,4
+405021003,405021,are there any animals in this photo?,yes,1,7
+454329001,454329,do all the clocks read the same?,yes,1,7
+472930001,472930,did it rain recently?,yes,1,4
+415218003,415218,are the plants hanging to dry?,yes,1,6
+444126011,444126,is he falling?,no,0,3
+534736003,534736,does this look like a recent photo?,no,0,7
+54277002,54277,is the man skiing?,no,0,4
+7256000,7256,are these people waiting in a line?,yes,1,7
+195113001,195113,do you see a orange?,no,0,5
+205513001,205513,is there fruit on top of the pastry?,no,0,8
+502240001,502240,is the dog paying a visit?,yes,1,6
+343229002,343229,is the cardboard box leaning?,yes,1,5
+189305006,189305,are they both holding phones?,no,0,5
+376491004,376491,are those pigeons?,no,0,3
+5033000,5033,is this a commuter train?,no,0,5
+524387003,524387,does this dessert contain nuts?,no,0,5
+199918002,199918,is there any grass for the bear?,no,0,7
+497928002,497928,do any young children live here?,yes,1,6
+187187000,187187,is this an office?,yes,1,4
+251736001,251736,are there clouds?,no,0,3
+206784000,206784,do you like the colors of this kitchen?,no,0,8
+297314017,297314,are their hats made out of the same substance?,yes,1,9
+134483017,134483,is the toilet clean?,yes,1,4
+180830003,180830,does this photo look altered?,yes,1,5
+45176000,45176,does the dog on the right have crazy eyes?,yes,1,9
+359492000,359492,can you drive a boat right here?,no,0,7
+190095002,190095,are there any tropical plants in the scene?,no,0,8
+278636001,278636,are they doing karate?,no,0,4
+404847002,404847,is there an electric light fixture in the picture?,yes,1,9
+154520057,154520,is the boy decorating?,no,0,4
+56724003,56724,is this a romantic scene?,no,0,5
+146813007,146813,is the bed made?,yes,1,4
+22819003,22819,is the water calm?,no,0,4
+323602002,323602,is this a well manicured lawn?,no,0,6
+94194027,94194,is the man in a kitchen?,no,0,6
+347753014,347753,can you see a bathtub?,yes,1,5
+468604002,468604,could his back itch?,yes,1,4
+178361000,178361,is this animal in water?,yes,1,5
+487351007,487351,is this a balloon in the air?,yes,1,7
+515214001,515214,does his shorts match the ground?,yes,1,6
+371364015,371364,is this a workplace?,no,0,4
+447237001,447237,is the water warm?,yes,1,4
+482800002,482800,does this man have a beard?,yes,1,6
+482436004,482436,is there anyone in the photo?,yes,1,6
+46323002,46323,are these animals spotted?,no,0,4
+387824004,387824,does this look like chinese food?,yes,1,6
+19962001,19962,is the sky clear?,no,0,4
+161141000,161141,is it sunny?,yes,1,3
+174004000,174004,has someone mowed recently?,no,0,4
+228166000,228166,is the sky cloudy?,no,0,4
+124300001,124300,is this bathroom ready to use?,yes,1,6
+415770006,415770,is the woman fit to play tennis?,yes,1,7
+349489007,349489,are there any scissors on the table?,no,0,7
+57645005,57645,are these people at a skateboard park?,no,0,7
+325919003,325919,do stairs go up the tower?,yes,1,6
+537053006,537053,does this animal eat meat?,no,0,5
+332845002,332845,is the man sitting on the bed?,no,0,7
+157559001,157559,do you get milk from these cows?,no,0,7
+191138050,191138,is there grass in the picture?,no,0,6
+208748014,208748,does anyone have a drink?,yes,1,5
+99810002,99810,is this a celebration?,no,0,4
+306952003,306952,does this giraffe live in the wild?,no,0,7
+124949014,124949,is it raining out?,yes,1,4
+443278006,443278,are these zebra's contained?,no,0,4
+371364010,371364,is the boy or the girl wearing glasses?,no,0,8
+551974050,551974,is she pregnant?,no,0,3
+380754002,380754,what id woman married?,no,0,4
+250608002,250608,is the bus accessible to passengers in wheelchairs?,yes,1,8
+270001005,270001,is this a low calorie diet meal?,no,0,7
+47588002,47588,is this a high speed bullet train?,yes,1,7
+56344003,56344,is this a cheery scene?,no,0,5
+242363059,242363,is this bathroom handicapped friendly?,no,0,5
+24053028,24053,is this a color photo?,yes,1,5
+145523006,145523,is it clean?,yes,1,3
+14248024,14248,is the child sleeping?,no,0,4
+323598016,323598,is this a place for children?,no,0,6
+262386029,262386,is the toilet lid up?,yes,1,5
+154520029,154520,is the weather clear?,yes,1,4
+222370045,222370,is there a child in the picture?,no,0,7
+206784003,206784,is it almost 2:00?,no,0,4
+97036002,97036,are the boys fighting?,no,0,4
+131882002,131882,are the cows all facing the same direction?,no,0,8
+456377010,456377,is this edible?,yes,1,3
+415218000,415218,is this a commercial kitchen?,no,0,5
+195862007,195862,is this a horse?,yes,1,4
+156832010,156832,is the window's glass opaque?,no,0,5
+107839015,107839,is this a cold day?,no,0,5
+167583000,167583,are these items for sale?,yes,1,5
+78565000,78565,is there a dog in the image?,yes,1,7
+94194028,94194,is the cake sweet?,yes,1,4
+5033001,5033,"theoretically, could a tiny man spit on the train from the tower?",yes,1,12
+99810004,99810,is the donut made of glass?,no,0,6
+244111017,244111,is the clock old?,yes,1,4
+447787007,447787,is this dish considered a casserole?,no,0,6
+250758013,250758,are these animals running free?,no,0,5
+304186013,304186,is this a crowded place?,no,0,5
+424880002,424880,is that a whole pie of cake?,no,0,7
+399744000,399744,is this a family gathering?,no,0,5
+12085000,12085,do all the pillows have the same design on them?,no,0,10
+175942008,175942,does the driver need to stop?,no,0,6
+250608005,250608,is this a double decker bus?,no,0,6
+198635013,198635,is this a healthy breakfast?,yes,1,5
+261155000,261155,is this a clear day?,no,0,5
+490022038,490022,do all the people have the same color hair?,no,0,9
+254491001,254491,is the bike secured?,no,0,4
+187187012,187187,is the man a computer expert?,yes,1,6
+565853010,565853,is this person sleeping?,no,0,4
+289630001,289630,is the train in motion?,no,0,5
+208748012,208748,is there homemade food on the table?,no,0,7
+478009002,478009,is it ok to take a bath now?,yes,1,8
+351489021,351489,is the woman looking out the window?,no,0,7
+242363033,242363,is this washroom in good shape?,yes,1,6
+103851008,103851,is there graffiti on the wall?,no,0,6
+120747009,120747,is it night time?,no,0,4
+289992007,289992,is there toothpaste?,no,0,3
+10219023,10219,has the dog been trained?,yes,1,5
+447233000,447233,is there an egg on the toast?,yes,1,7
+142856000,142856,are there olives on this pizza?,no,0,6
+143458006,143458,is he playing video games?,no,0,5
+142774014,142774,can you really cut loose with this vehicle?,no,0,8
+399744022,399744,is there more than one person in the picture?,yes,1,9
+296208003,296208,is the cup empty?,no,0,4
+199050003,199050,is the picture black and white?,yes,1,6
+273967001,273967,is this person in water?,yes,1,5
+205513002,205513,is the food in a bowl?,yes,1,6
+170605008,170605,is the plan functioning correctly?,yes,1,5
+474906054,474906,is there a red car?,no,0,5
+242363008,242363,is there a rug on the floor?,no,0,7
+353595004,353595,is he almost finished with his drink?,yes,1,7
+522703001,522703,is there cheese on this pizza?,yes,1,6
+133386012,133386,is the man doing a trick on his skateboard?,yes,1,9
+447553010,447553,is someone taking a picture?,yes,1,5
+356863009,356863,is it chilly outside?,no,0,4
+399744023,399744,is the man's face in the background in focus?,yes,1,9
+417085004,417085,are these wild cows?,no,0,4
+551974048,551974,is the woman dancing?,no,0,4
+459034000,459034,is this man dressed for a formal occasion?,no,0,8
+142774048,142774,is this a tour bus?,yes,1,5
+365182002,365182,are the buildings the same color?,no,0,6
+262386018,262386,is the floor dirty?,no,0,4
+383594002,383594,are there pickles?,yes,1,3
+249277001,249277,is it sunny?,no,0,3
+113251008,113251,is this city street covered in snow?,no,0,7
+265372004,265372,is the boat on water?,yes,1,5
+359492001,359492,are there many big rocks in the sea?,yes,1,8
+306247004,306247,does the man have facial hair on his chin?,no,0,9
+347753009,347753,is there a shower curtain?,no,0,5
+270001000,270001,are there bananas in the photo?,no,0,6
+427870000,427870,is the photo taken with the camera pointing up?,yes,1,9
+432898002,432898,is there a forest behind them?,no,0,6
+323888004,323888,does the building have a brick front?,yes,1,7
+108129015,108129,is there a flowering tree in the scene?,yes,1,8
+565853024,565853,was this taken from outside of the train?,no,0,8
+521282029,521282,is this a fancy vase?,no,0,5
+474906001,474906,is it foggy?,yes,1,3
+490022018,490022,are they both wearing helmets?,no,0,5
+452201008,452201,did he just hit the ball?,no,0,6
+565853012,565853,is anybody watching the television?,yes,1,5
+147404004,147404,are there clouds on the sky?,no,0,6
+521282047,521282,is there a mirror in this picture?,no,0,7
+91402001,91402,are there waves in the ocean?,yes,1,6
+22874004,22874,is this a big dog?,yes,1,5
+65113002,65113,was this taken outside?,yes,1,4
+214492001,214492,are these men wearing the same styled tie?,no,0,8
+242363068,242363,is this a hotel bathroom?,no,0,5
+322261025,322261,is the baby wearing shoes?,yes,1,5
+356863028,356863,are there more than one kite flying?,yes,1,7
+458932000,458932,is there a mountain in the background?,no,0,7
+94194004,94194,is there wine?,no,0,3
+142774007,142774,is it sunny day?,no,0,4
+482436003,482436,is he alone?,no,0,3
+428856003,428856,does it look cloudy in the background?,no,0,7
+146813016,146813,are there sheets on the bed?,yes,1,6
+205531025,205531,is there a goat in the window?,no,0,7
+222370046,222370,is the pavement overcrowded?,no,0,4
+145523011,145523,is the toilet seat up?,no,0,5
+447553024,447553,are the people sitting on a beach?,no,0,7
+415770004,415770,is the woman wearing a hat?,no,0,6
+412975015,412975,is the woman in this photo in shape?,yes,1,8
+222370036,222370,is there a lot of pigeons in this picture?,no,0,9
+490022008,490022,is there someone skateboarding?,no,0,4
+573993007,573993,are the tiles on the wall and floor the same?,no,0,10
+108129022,108129,are those tulips?,no,0,3
+297314014,297314,are these players on the same team?,yes,1,7
+154520040,154520,are there buildings in the background?,no,0,6
+306506005,306506,why is the zebra sad?,no,0,5
+54671002,54671,is this a hotel room?,no,0,5
+497928004,497928,is the t.v. a big screen?,yes,1,6
+545101013,545101,is there a trash can in the room?,no,0,8
+564151001,564151,is there water in the tub?,no,0,6
+493846021,493846,is the bicycle in motion?,yes,1,5
+154520044,154520,is it sunny?,yes,1,3
+408255002,408255,is this person posing for a  picture?,no,0,7
+360216004,360216,does the girl with glasses dye her hair different colors?,yes,1,10
+14278005,14278,is the pic visible?,yes,1,4
+323598021,323598,is the restroom nice?,yes,1,4
+365129002,365129,is it raining?,no,0,3
+537053003,537053,is this the giraffes natural habitat?,yes,1,6
+255966004,255966,is there an apple?,no,0,4
+349489005,349489,are there butter cookies on the plate?,yes,1,7
+257971001,257971,is this man wearing glasses?,no,0,5
+516628004,516628,is the bed made?,no,0,4
+478858010,478858,could this bike be stolen easily?,yes,1,6
+201993020,201993,is this a clear reflection of the sky?,no,0,8
+278462009,278462,is the man swimming?,no,0,4
+12085020,12085,is this a man room?,yes,1,5
+503841006,503841,is that a clock?,no,0,4
+490022022,490022,is someone really into this game?,yes,1,6
+107839019,107839,are there waves?,no,0,3
+491921017,491921,are their hats made out of the same substance?,no,0,9
+127535001,127535,are the bananas for sale?,yes,1,5
+289630004,289630,does this have graffiti on it?,yes,1,6
+399212015,399212,is this a luggage bag?,yes,1,5
+278462003,278462,is he about to fall?,no,0,5
+49473006,49473,are the flowers real?,yes,1,4
+458932005,458932,is this person on the surfboard?,yes,1,6
+57645032,57645,is there a flag?,no,0,4
+432898005,432898,are there a lot of trees in this pictures?,no,0,9
+160351027,160351,are the boys wearing ties?,no,0,5
+405021002,405021,are both cars parked?,no,0,4
+109888000,109888,is there a hill behind the animal?,yes,1,7
+406932004,406932,is this a bull in the reflection?,no,0,7
+412975008,412975,are the people near a beach?,no,0,6
+127535003,127535,are these ripe?,yes,1,3
+507927006,507927,are the riders wearing safety gear?,no,0,6
+257971004,257971,are his friends paying attention to him play the game?,yes,1,10
+24053023,24053,are tiles on the wall?,no,0,5
+323598042,323598,is the toilet paper in it's proper place?,yes,1,8
+507235002,507235,is pizza on the table?,no,0,5
+21994006,21994,is this water clean?,yes,1,4
+14278008,14278,is this in a small town?,no,0,6
+380754016,380754,does this girl have her ears pierced?,no,0,7
+24053027,24053,is this a contemporary style room?,no,0,6
+75612001,75612,are the people standing?,yes,1,4
+276706003,276706,did a rabbit take a nap in the box?,no,0,9
+107839040,107839,is this in the desert?,no,0,5
+521282030,521282,is this edible?,no,0,3
+352080005,352080,is the room neatly organized?,no,0,5
+328596019,328596,is this person an adult?,no,0,5
+487351009,487351,are the colors of the kite the same colors in a rainbow?,no,0,12
+351489014,351489,does the occupant of this room own the room?,yes,1,9
+237777004,237777,is this a watering hole?,yes,1,5
+184358001,184358,is it snow here?,yes,1,4
+191138038,191138,is there a helicopter in the picture?,no,0,7
+559012000,559012,is the man a police officer?,yes,1,6
+391290000,391290,is this a sport?,yes,1,4
+262386005,262386,is there a shelf above the toilet?,no,0,7
+562084001,562084,are all the people sunbathing?,no,0,5
+257971028,257971,are those two men standing?,no,0,5
+194780004,194780,is there any people in the picture?,no,0,7
+48273004,48273,are these navel oranges?,yes,1,4
+447233009,447233,does this look delicious?,yes,1,4
+90839029,90839,is there a tv above the fireplace?,no,0,7
+104176000,104176,is the man's tie argyle?,no,0,5
+454577000,454577,does this animal have spots?,no,0,5
+260105017,260105,is this a breakfast meal?,yes,1,5
+21994016,21994,does this elephant live in the wild?,yes,1,7
+191138031,191138,was the picture taken in an american city?,yes,1,8
+189305021,189305,is the man in his office?,yes,1,6
+249277008,249277,is the bench oversized?,no,0,4
+142774041,142774,is the man's identity meant to be hidden?,yes,1,8
+380754010,380754,is the doughnut creme-filled?,yes,1,4
+447553011,447553,is the girl flying a kite?,yes,1,6
+385786000,385786,is the decor modern?,no,0,4
+475466005,475466,can you fly out of here?,no,0,6
+405007005,405007,are there any buses in the street?,no,0,7
+128112000,128112,is this person wearing skis?,yes,1,5
+271076001,271076,is this a train station?,no,0,5
+195862002,195862,is the horse moving?,no,0,4
+323598003,323598,is this a bathtub?,yes,1,4
+77953001,77953,is there mountains in this picture?,yes,1,6
+328596023,328596,is the pizza vegetarian?,no,0,4
+154520005,154520,does the kite have a tail?,no,0,6
+191138064,191138,is the boat floating in water?,yes,1,6
+329030005,329030,is the pic taken during the day?,no,0,7
+329030001,329030,do you see any red flowers?,no,0,6
+551974035,551974,could this activity be dangerous?,yes,1,5
+531061010,531061,has it been raining?,no,0,4
+90839019,90839,is there a picture on the wall?,no,0,7
+170129010,170129,is there smog?,no,0,3
+323598001,323598,is this a hospital?,no,0,4
+521282014,521282,are there plants in the flower pot?,yes,1,7
+257767009,257767,is the mouse alive?,no,0,4
+124949001,124949,is the person holding an umbrella a girl?,yes,1,8
+459382001,459382,is this a dairy free meal?,no,0,6
+482800005,482800,is there three guys?,yes,1,4
+132415012,132415,is someone already eating this food?,yes,1,6
+250758006,250758,is this in a zoo?,yes,1,5
+120747020,120747,is there a cover over the window?,no,0,7
+14248003,14248,is this a human child?,yes,1,5

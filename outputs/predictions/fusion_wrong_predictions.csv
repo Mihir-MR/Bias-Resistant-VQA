@@ -1,0 +1,79 @@
+question_id,image_id,question,answer,label,question_length,text_prediction,image_prediction,fusion_prediction,text_prediction_answer,image_prediction_answer,fusion_prediction_answer
+562084007,562084,is the closest chair occupied?,yes,1,5,0,0,0,no,no,no
+548331002,548331,are the walkways stones kidney shaped?,no,0,6,0,1,1,no,yes,yes
+257971001,257971,is this man wearing glasses?,no,0,5,1,1,1,yes,yes,yes
+174004000,174004,has someone mowed recently?,no,0,4,0,1,1,no,yes,yes
+474906029,474906,is it raining?,no,0,3,1,1,1,yes,yes,yes
+39976001,39976,is there an appropriate amount of basil on the top pizza?,yes,1,11,0,0,0,no,no,no
+304186008,304186,does this man have a mustache?,yes,1,6,1,0,0,yes,no,no
+58123002,58123,is this bus turning on red?,no,0,6,1,1,1,yes,yes,yes
+214492001,214492,are these men wearing the same styled tie?,no,0,8,0,1,1,no,yes,yes
+190664001,190664,is there traffic light in the background?,yes,1,7,0,0,0,no,no,no
+175942008,175942,does the driver need to stop?,no,0,6,0,1,1,no,yes,yes
+458932005,458932,is this person on the surfboard?,yes,1,6,0,0,0,no,no,no
+78565000,78565,is there a dog in the image?,yes,1,7,0,0,0,no,no,no
+231408001,231408,is the cat lazy?,no,0,4,0,1,1,no,yes,yes
+47588002,47588,is this a high speed bullet train?,yes,1,7,0,0,0,no,no,no
+113251008,113251,is this city street covered in snow?,no,0,7,0,1,1,no,yes,yes
+78023006,78023,is there a plant in this image?,no,0,7,0,1,1,no,yes,yes
+260105002,260105,is there any meat on the plate?,yes,1,7,0,0,0,no,no,no
+428856003,428856,does it look cloudy in the background?,no,0,7,1,1,1,yes,yes,yes
+82920001,82920,is the umbrella mad at the man?,no,0,7,1,1,1,yes,yes,yes
+399744022,399744,is there more than one person in the picture?,yes,1,9,0,1,0,no,yes,no
+195862007,195862,is this a horse?,yes,1,4,0,0,0,no,no,no
+142774052,142774,is the biker using an umbrella?,no,0,6,0,1,1,no,yes,yes
+56724003,56724,is this a romantic scene?,no,0,5,0,1,1,no,yes,yes
+399212015,399212,is this a luggage bag?,yes,1,5,0,0,0,no,no,no
+383594000,383594,are the buns toasted?,no,0,4,0,1,1,no,yes,yes
+27617012,27617,is there a constellation named after these creatures?,no,0,8,0,1,1,no,yes,yes
+223094001,223094,are these modern appliances?,no,0,4,0,1,1,no,yes,yes
+11567003,11567,will he win the match?,no,0,5,0,1,1,no,yes,yes
+564151001,564151,is there water in the tub?,no,0,6,1,1,1,yes,yes,yes
+442106002,442106,does the stove have any blemishes?,yes,1,6,1,0,0,yes,no,no
+154520005,154520,does the kite have a tail?,no,0,6,1,0,1,yes,no,yes
+474906054,474906,is there a red car?,no,0,5,0,1,1,no,yes,yes
+195862008,195862,is the child wearing a helmet?,yes,1,6,0,0,0,no,no,no
+428357001,428357,is this for military use?,yes,1,5,1,0,0,yes,no,no
+53529002,53529,is that a four leaf clover?,no,0,6,0,1,1,no,yes,yes
+412975015,412975,is the woman in this photo in shape?,yes,1,8,1,0,0,yes,no,no
+322057001,322057,do these animals bark?,no,0,4,0,1,1,no,yes,yes
+424219004,424219,can these giraffes access each other?,yes,1,6,1,0,0,yes,no,no
+142774007,142774,is it sunny day?,no,0,4,1,1,1,yes,yes,yes
+79392003,79392,is the plane on air?,yes,1,5,1,0,0,yes,no,no
+521282030,521282,is this edible?,no,0,3,1,1,1,yes,yes,yes
+559012000,559012,is the man a police officer?,yes,1,6,0,0,0,no,no,no
+157559001,157559,do you get milk from these cows?,no,0,7,0,1,1,no,yes,yes
+307523009,307523,is there a difficult trick taking place?,yes,1,7,1,0,0,yes,no,no
+178361000,178361,is this animal in water?,yes,1,5,1,0,0,yes,no,no
+347753009,347753,is there a shower curtain?,no,0,5,0,1,1,no,yes,yes
+482436003,482436,is he alone?,no,0,3,0,1,1,no,yes,yes
+164759003,164759,is there a wood floor?,yes,1,5,0,0,0,no,no,no
+315209014,315209,are there any trees in the photo?,yes,1,7,1,0,0,yes,no,no
+581683001,581683,is this a birthday cake?,no,0,5,1,1,1,yes,yes,yes
+186036004,186036,does the truck have suicide doors?,yes,1,6,1,0,0,yes,no,no
+402971008,402971,are the stands filled?,yes,1,4,1,0,0,yes,no,no
+262386029,262386,is the toilet lid up?,yes,1,5,0,0,0,no,no,no
+184358001,184358,is it snow here?,yes,1,4,0,0,0,no,no,no
+205513001,205513,is there fruit on top of the pastry?,no,0,8,1,1,1,yes,yes,yes
+262933001,262933,are the bears fighting?,yes,1,4,0,0,0,no,no,no
+109888003,109888,is the sheep rubbing his back?,no,0,6,0,1,1,no,yes,yes
+145523021,145523,is there anything in the toilet?,no,0,6,0,1,1,no,yes,yes
+323598003,323598,is this a bathtub?,yes,1,4,1,0,0,yes,no,no
+376209005,376209,is there food on the plates?,yes,1,6,1,0,0,yes,no,no
+345787000,345787,is this the right dress for her?,yes,1,7,1,0,0,yes,no,no
+415218000,415218,is this a commercial kitchen?,no,0,5,0,1,1,no,yes,yes
+436470000,436470,is there a fireplace in the room?,yes,1,7,0,0,0,no,no,no
+22874004,22874,is this a big dog?,yes,1,5,1,0,0,yes,no,no
+241113003,241113,is this inside?,no,0,3,0,1,1,no,yes,yes
+189305006,189305,are they both holding phones?,no,0,5,1,1,1,yes,yes,yes
+189740003,189740,is there a bird in this picture?,yes,1,7,1,1,0,yes,yes,no
+359492000,359492,can you drive a boat right here?,no,0,7,0,1,1,no,yes,yes
+468604002,468604,could his back itch?,yes,1,4,0,0,0,no,no,no
+47588001,47588,is this a passenger train?,yes,1,5,0,0,0,no,no,no
+289630001,289630,is the train in motion?,no,0,5,0,1,1,no,yes,yes
+154520044,154520,is it sunny?,yes,1,3,1,0,0,yes,no,no
+165202008,165202,can you cross this street?,yes,1,5,0,0,0,no,no,no
+275751003,275751,is this a caboose?,no,0,4,0,1,1,no,yes,yes
+260105017,260105,is this a breakfast meal?,yes,1,5,1,0,0,yes,no,no
+261587001,261587,is this person wearing a life jacket?,yes,1,7,1,0,0,yes,no,no
+145523011,145523,is the toilet seat up?,no,0,5,0,1,1,no,yes,yes

@@ -1,0 +1,4 @@
+Model,Accuracy
+Text Only,0.5256
+Image Only (ResNet18),0.5064
+Fusion,0.5
