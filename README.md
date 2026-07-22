@@ -59,8 +59,7 @@ Project11_Bias_Resistant_VQA/
 data/
 models/
 outputs/
-reports/
-presentation/
+
 
 Project11_Bias_Resistant_VQA.ipynb
 README.md
